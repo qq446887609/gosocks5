@@ -1,3 +1,3 @@
-module github.com/go-gost/gosocks5
+module github.com/qq446887609/gosocks5
 
 go 1.16
